@@ -1,0 +1,10 @@
+.*
+!.gitignore
+
+*.txt
+!requirements.txt
+
+__pycache__/
+chroma/
+test_db/
+data/

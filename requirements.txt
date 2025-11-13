@@ -1,0 +1,8 @@
+langchain
+langchain-community
+llama-parse
+chromadb
+langchain-groq
+langchain-chroma
+langchain-huggingface
+unstructured[md]
